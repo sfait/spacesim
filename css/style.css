@@ -102,7 +102,7 @@ body {
 
 /* subpages */
 .header {
-    padding: 3rem 0 0.5rem;
+    padding: 3rem 0 0;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
