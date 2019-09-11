@@ -149,7 +149,6 @@ body {
 
 .signup-form-wrapper {
     width: 100%;
-    padding: 2rem 0;
     font-size: 1rem;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -164,6 +163,10 @@ body {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+}
+
+.second-header {
+    font-size: 2rem;
 }
 
 .signup-form-wrapper input {
